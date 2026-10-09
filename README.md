@@ -1,19 +1,14 @@
-# HackerRank
+# hackerrank
 
-This repository contains my solutions to HackerRank problems, which I have been solving on my free time.
+My solutions to HackerRank problems, solved in my free time. My profile: [hackerrank.com/ralvarezdev](https://www.hackerrank.com/ralvarezdev).
 
-You can visit my profile [here](https://www.hackerrank.com/ralvarezdev).
+## Contents
 
-## Developers
+- **[`python`](python)** — Python track (basic data types, collections, introduction, numpy, regex and parsing, sets, strings).
+- **[`three-month-preparation-kit`](three-month-preparation-kit)** — Three Month Preparation Kit (weeks 1 and 2).
 
-- [ralvarezdev](https://github.com/ralvarezdev) - Ramón Álvarez
+Languages: Python and Java.
 
-## Programming Languages
+## License
 
-- Python
-- Java
-
-## Sections
-
-- [Python](python)
-- [Three Month Preparation Kit](three-month-preparation-kit)
+GPL-3.0.
